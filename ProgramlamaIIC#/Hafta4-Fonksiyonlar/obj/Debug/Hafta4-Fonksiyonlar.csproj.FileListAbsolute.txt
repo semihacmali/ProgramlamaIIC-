@@ -1,0 +1,7 @@
+C:\Users\SemihAcmali\source\repos\ProgramlamaIIC#\Hafta4-Fonksiyonlar\bin\Debug\Hafta4-Fonksiyonlar.exe.config
+C:\Users\SemihAcmali\source\repos\ProgramlamaIIC#\Hafta4-Fonksiyonlar\bin\Debug\Hafta4-Fonksiyonlar.exe
+C:\Users\SemihAcmali\source\repos\ProgramlamaIIC#\Hafta4-Fonksiyonlar\bin\Debug\Hafta4-Fonksiyonlar.pdb
+C:\Users\SemihAcmali\source\repos\ProgramlamaIIC#\Hafta4-Fonksiyonlar\obj\Debug\Hafta4-Fonksiyonlar.csproj.AssemblyReference.cache
+C:\Users\SemihAcmali\source\repos\ProgramlamaIIC#\Hafta4-Fonksiyonlar\obj\Debug\Hafta4-Fonksiyonlar.csproj.CoreCompileInputs.cache
+C:\Users\SemihAcmali\source\repos\ProgramlamaIIC#\Hafta4-Fonksiyonlar\obj\Debug\Hafta4-Fonksiyonlar.exe
+C:\Users\SemihAcmali\source\repos\ProgramlamaIIC#\Hafta4-Fonksiyonlar\obj\Debug\Hafta4-Fonksiyonlar.pdb

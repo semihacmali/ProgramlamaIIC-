@@ -1,0 +1,7 @@
+C:\Users\SemihAcmali\source\repos\ProgramlamaIIC#\ProgramlamaIIC#\bin\Debug\ProgramlamaIIC#.exe.config
+C:\Users\SemihAcmali\source\repos\ProgramlamaIIC#\ProgramlamaIIC#\bin\Debug\ProgramlamaIIC#.exe
+C:\Users\SemihAcmali\source\repos\ProgramlamaIIC#\ProgramlamaIIC#\bin\Debug\ProgramlamaIIC#.pdb
+C:\Users\SemihAcmali\source\repos\ProgramlamaIIC#\ProgramlamaIIC#\obj\Debug\ProgramlamaIIC#.csproj.AssemblyReference.cache
+C:\Users\SemihAcmali\source\repos\ProgramlamaIIC#\ProgramlamaIIC#\obj\Debug\ProgramlamaIIC#.csproj.CoreCompileInputs.cache
+C:\Users\SemihAcmali\source\repos\ProgramlamaIIC#\ProgramlamaIIC#\obj\Debug\ProgramlamaIIC#.exe
+C:\Users\SemihAcmali\source\repos\ProgramlamaIIC#\ProgramlamaIIC#\obj\Debug\ProgramlamaIIC#.pdb

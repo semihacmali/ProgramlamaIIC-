@@ -1,0 +1,7 @@
+C:\Users\SemihAcmali\source\repos\ProgramlamaIIC#\Hafta3\bin\Debug\Hafta3.exe.config
+C:\Users\SemihAcmali\source\repos\ProgramlamaIIC#\Hafta3\bin\Debug\Hafta3.exe
+C:\Users\SemihAcmali\source\repos\ProgramlamaIIC#\Hafta3\bin\Debug\Hafta3.pdb
+C:\Users\SemihAcmali\source\repos\ProgramlamaIIC#\Hafta3\obj\Debug\Hafta3.csproj.AssemblyReference.cache
+C:\Users\SemihAcmali\source\repos\ProgramlamaIIC#\Hafta3\obj\Debug\Hafta3.csproj.CoreCompileInputs.cache
+C:\Users\SemihAcmali\source\repos\ProgramlamaIIC#\Hafta3\obj\Debug\Hafta3.exe
+C:\Users\SemihAcmali\source\repos\ProgramlamaIIC#\Hafta3\obj\Debug\Hafta3.pdb
